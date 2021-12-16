@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Ismar
 
-<!--
-**BegaDeveloper/BegaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular developer with lots of ambition and hustle. Based in Bosnia and Hercegovina - Zivinice. 
+Very responsible, communicative and ready for teamwork. I do well in working under pressure. 
+I have read a lot of books related programming that have helped me and facilitated my learning and work.  
+An interesting, talkative, sensible and cheerful guy at work and out of work.
+Curently working with Angular and Codeigniter for Habultron company as a Full Stack Developer, Tuzla BiH.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for a company and a freelancer.
+- 👯 I’m looking to collaborate on UpWork so i can boost my experience and skill's.
+- 💬 Ask me about anyting.
+- 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: linkedin.com/in/ismar-begic-bega
+- ⚡ Fun fact: Im a gym rat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px" >
