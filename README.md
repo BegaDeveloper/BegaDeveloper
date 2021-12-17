@@ -11,7 +11,7 @@ Curently working with Angular and Codeigniter for Habultron company as a Full St
 - 💬 Ask me about anyting.
 - 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: linkedin.com/in/ismar-begic-bega
 - ⚡ Fun fact: Im a gym rat and tech nerd.
-- :handshake: Available for freelance work over UpWork.
+- :handshake: Available for freelance work over UpWork (Development, Design, Administration, Research, Data Entry... ).
 
 
 
