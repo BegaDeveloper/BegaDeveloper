@@ -6,7 +6,6 @@ I have read a lot of books related programming that have helped me and facilitat
 An interesting, talkative, sensible and cheerful guy at work and out of work.
 Curently working with Angular and Codeigniter for Habultron company as a Full Stack Developer, Tuzla BiH.
 
-- 🔭 I’m currently working for a company and as a freelancer.
 - 👯 I’m looking to collaborate on UpWork so I can boost my experience and skill's.
 - 💬 Ask me about anyting.
 - 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: https://www,linkedin.com/in/ismar-begic-bega
