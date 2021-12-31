@@ -15,7 +15,7 @@ Curently working with Angular and Codeigniter for Habultron company as a Full St
 
 
 
-Technologies and Tools: 
+Technologies, Tools and OS: 
 
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="30px">   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" margin="10px" width="30px" > 
