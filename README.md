@@ -2,7 +2,7 @@
 
 Angular developer with lots of ambition and hustle. Based in Bosnia and Hercegovina - Zivinice. 
 Very responsible, communicative and ready for teamwork. I do well in working under pressure. 
-I have read a lot of books related programming that have helped me and facilitated my learning and work.  
+I have read a lot of books related to programming that have helped me and facilitated my learning and work.  
 An interesting, talkative, sensible and cheerful guy at work and out of work.
 Curently working with Angular and Codeigniter for Habultron company as a Full Stack Developer, Tuzla BiH.
 
