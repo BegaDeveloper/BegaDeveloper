@@ -8,7 +8,7 @@ Curently working with Angular and Codeigniter for Habultron company as a Full St
 
 - 👯 I’m looking to collaborate on UpWork so I can boost my experience and skill's.
 - 💬 Ask me about anyting.
-- 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: https://www,linkedin.com/in/ismar-begic-bega
+- 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: https://www.linkedin.com/in/ismar-begic-bega/
 - ⚡ Fun fact: Im a gym rat and tech nerd.
 - :computer: Check out my portfolio website: https://sleepy-keller-665b76.netlify.app/
 - :handshake: Available for freelance and part-time work over UpWork (Development, Design, Administration, Research, Data Entry... ).
