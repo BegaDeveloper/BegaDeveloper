@@ -28,4 +28,4 @@ Technologies, Tools and OS:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKushnir&layout=compact)](https://github.com/AndrewKushnir/github-readme-stats)
+
