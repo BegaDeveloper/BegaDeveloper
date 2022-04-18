@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ismar
- <img src="https://miro.medium.com/max/480/1*VKY-Ldkt-iHobItql7G_5w.png" width="190px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px">
+ <img src="https://miro.medium.com/max/480/1*VKY-Ldkt-iHobItql7G_5w.png" width="190px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px"> <br>
 Angular developer with lots of ambition and hustle. Based in Bosnia and Hercegovina - Zivinice. 
 Very responsible, communicative and ready for teamwork. I do well in working under pressure. 
 I have read a lot of books related to programming that have helped me and facilitated my learning and work.  
