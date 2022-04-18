@@ -27,4 +27,4 @@ Technologies, Tools and OS:
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="300px"  ">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BegaDeveloper&layout=compact)](https://github.com/BegaDeveloper/github-readme-stats)
