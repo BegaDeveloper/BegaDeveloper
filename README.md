@@ -33,7 +33,7 @@ Technologies, Tools and OS:
 <p>
 • Working on a complex large scale application for Sweden client <br>
 • Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
-• Backend work and API development with PHP and Codeigniter<br><br>
+• Backend work and API development with PHP and Codeigniter<br>
 • Pixel perfect design implementation from XD files.<br>
 • Team collaboration<br>
 • Produce clean, efficient code based on specifications<br>
