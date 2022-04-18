@@ -31,13 +31,13 @@ Technologies, Tools and OS:
 <div>
 <h3>🟢 Software Developer at Habultron</h3>
 <p>
-• Working on a complex large scale application for Sweden client
-• Implementing design and functionality using Angular, Oracle, Codeigniter (php)
-• Backend work and API development with PHP and Codeigniter
-• Pixel perfect design implementation from XD files.
-• Team collaboration
-• Produce clean, efficient code based on specifications
-• Troubleshoot, debug and upgrade existing software
+• Working on a complex large scale application for Sweden client <br>
+• Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
+• Backend work and API development with PHP and Codeigniter<br><br>
+• Pixel perfect design implementation from XD files.<br>
+• Team collaboration<br>
+• Produce clean, efficient code based on specifications<br>
+• Troubleshoot, debug and upgrade existing software<br>
 • Recommend and execute improvements
 </p>
 </div>
