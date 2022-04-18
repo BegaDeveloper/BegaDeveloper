@@ -30,7 +30,7 @@ Technologies, Tools and OS:
 
 <div>
 <h3>🟢 Software Developer at Habultron</h3>
-<p>
+<p style="margin-left: 30px;">
 • Working on a complex large scale application for Sweden client <br>
 • Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
 • Backend work and API development with PHP and Codeigniter<br>
