@@ -13,7 +13,7 @@ Curently working with Angular and Codeigniter for Habultron company as a Full St
 - :computer: Check out my portfolio website: https://sleepy-keller-665b76.netlify.app/
 - :handshake: Available for freelance and part-time work over UpWork (Development, Design, Administration, Research, Data Entry... ).
 
-
+<hr />
 
 Technologies, Tools and OS:
 
