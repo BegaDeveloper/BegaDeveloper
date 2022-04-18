@@ -42,4 +42,63 @@ Technologies, Tools and OS:
 </p>
 </div>
 
+<div>
+<h3>🟢 Part time Angular Developer at Enetel solutions</h3>
+<p>
+• Building Banking sistem app for banks<br>
+• Angular 13 app from scratch. <br>
+• Work with other team members.<br>
+• Design and implement visually aesthetic user interfaces.<br>
+• Ensure front end code is able to query APIs.<br>
+• Identify issues with front end code and rectify them to remove bugs.<br>
+</p>
+</div>
+
+<div>
+<h3>🟢 Freelance Front End Developement and design (UpWork)</h3>
+<p>
+• Using languages like HTML, CSS, Angular, React, JavaScript, TypeScript to create user-friendly web pages <br>
+• Maintaining and improving websites<br>
+• Optimizing applications for maximum speed<br>
+• Get feedback from clients, and build solutions for users and customers<br>
+• Stay up-to-date on emerging technologies<br>
+• Design mobile-based features<br>
+• Write functional requirement documents and guides
+</p>
+</div>
+
+<div>
+<h3>⚫ Part time Angular Developer at LTG, Canada</h3>
+<p>
+• Finishing up project for production<br>
+• Angular FE development <br>
+• Design implementation from Figma files<br>
+• Optimizing the user experience<br>
+• Creating tools that improve site interaction regardless of the browser<br>
+• Using HTML5, RxJs, TypeScript and SASS to bring concepts to life<br>
+• Fixing bugs and testing for usability
+</p>
+</div>
+
+<div>
+<h3>⚫ Contract job on E-Commerc wordpress websites</h3>
+<p>
+• Create and maintain internal and external websites in collaboration with other web developers<br>
+• Collaborate with development teams to discuss, analyze, or resolve usability issues<br>
+• Document application and website changes or change procedures<br>
+• Develop or implement procedures for ongoing web site revision<br>
+• Recommend web site improvements
+</p>
+</div>
+
+<div>
+<h3>⚫ Shopify Developer for GetGeek</h3>
+<p>
+• Responsible for the development of the Shopify Plus platform, themes and liquid programming language <br>
+• Contribute in the development of open source software, HTML5/CSS/JavaScript, and common web technologies integral to building seamless multi-channel experiences<br>
+• Implement advanced debugging techniques and usage of browser developer tools<br>
+• Developing testing plans and troubleshooting issues related to eCommerce issues
+</p>
+</div>
+
 
