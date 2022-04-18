@@ -29,7 +29,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>🟢 Software Developer at Habultron</h3>
+<h3>🟢 Software Developer at Habultron (BiH, Tuzla)</h3>
 <p>
 • Working on a complex large scale application for Sweden client <br>
 • Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
@@ -43,7 +43,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>🟢 Part time Angular Developer at Enetel solutions</h3>
+<h3>🟢 Part time Angular Developer at Enetel solutions (Serbia, Belgrade)</h3>
 <p>
 • Building Banking sistem app for banks<br>
 • Angular 13 app from scratch. <br>
@@ -68,7 +68,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>⚫ Part time Angular Developer at LTG, Canada</h3>
+<h3>⚫ Part time Angular Developer at LTG (Canada, Toronto)</h3>
 <p>
 • Finishing up project for production<br>
 • Angular FE development <br>
@@ -81,7 +81,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>⚫ Contract job on E-Commerc wordpress websites</h3>
+<h3>⚫ Contract job on E-Commerc wordpress websites (Slovenia, Trzin)</h3>
 <p>
 • Create and maintain internal and external websites in collaboration with other web developers<br>
 • Collaborate with development teams to discuss, analyze, or resolve usability issues<br>
@@ -92,7 +92,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>⚫ Shopify Developer for GetGeek</h3>
+<h3>⚫ Shopify Developer for GetGeek (Costa Rica)</h3>
 <p>
 • Responsible for the development of the Shopify Plus platform, themes and liquid programming language <br>
 • Contribute in the development of open source software, HTML5/CSS/JavaScript, and common web technologies integral to building seamless multi-channel experiences<br>
