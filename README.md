@@ -29,7 +29,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>🟢 Software Developer at Habultron (BiH, Tuzla)</h3>
+<h3>🟢 Full time Software Developer at Habultron (BiH, Tuzla)</h3>
 <p>
 • Working on a complex large scale application for Sweden client <br>
 • Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
