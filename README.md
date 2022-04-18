@@ -29,7 +29,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>🟢 Full time Software Developer at Habultron (BiH, Tuzla)</h3>
+<h3>🟢 Full time 40h/week Software Developer at Habultron (BiH, Tuzla)</h3>
 <p>
 • Working on a complex large scale application for Sweden client <br>
 • Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
@@ -43,7 +43,7 @@ Technologies, Tools and OS:
 </div>
 
 <div>
-<h3>🟢 Part time Angular Developer at Enetel solutions (Serbia, Belgrade)</h3>
+<h3>🟢 Part time 20h/week Angular Developer at Enetel solutions (Serbia, Belgrade)</h3>
 <p>
 • Building Banking sistem app for banks<br>
 • Angular 13 app from scratch. <br>
