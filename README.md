@@ -25,7 +25,9 @@ Technologies, Tools and OS:
 
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="300px"  ">
+  <h1>Experience:</h1>
 </div>
+
 
 
 
