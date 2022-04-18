@@ -28,6 +28,18 @@ Technologies, Tools and OS:
   <h1>Experience:</h1>
 </div>
 
-
+<div>
+<h3>🟢 Software Developer at Habultron</h3>
+<p>
+• Working on a complex large scale application for Sweden client
+• Implementing design and functionality using Angular, Oracle, Codeigniter (php)
+• Backend work and API development with PHP and Codeigniter
+• Pixel perfect design implementation from XD files.
+• Team collaboration
+• Produce clean, efficient code based on specifications
+• Troubleshoot, debug and upgrade existing software
+• Recommend and execute improvements
+</p>
+</div>
 
 
