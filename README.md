@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ismar
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="32px"> 
+ <img src="https://miro.medium.com/max/480/1*VKY-Ldkt-iHobItql7G_5w.png"> 
 Angular developer with lots of ambition and hustle. Based in Bosnia and Hercegovina - Zivinice. 
 Very responsible, communicative and ready for teamwork. I do well in working under pressure. 
 I have read a lot of books related to programming that have helped me and facilitated my learning and work.  
