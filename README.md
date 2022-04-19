@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ismar
- <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="190px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px">  <br>
+ <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="190px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px"> <img src="https://d33wubrfki0l68.cloudfront.net/45ed46a4aa7300c35494e9fc23ff4c1f61f62ab7/b7c39/static/redux_logo_2-24410881e63c96340db17ec232dfd1bf.png" width="190px">  <br>
 Angular developer with lots of ambition and hustle. Based in Bosnia and Hercegovina - Zivinice. 
 Very responsible, communicative and ready for teamwork. I do well in working under pressure. 
 I have read a lot of books related to programming that have helped me and facilitated my learning and work.  
