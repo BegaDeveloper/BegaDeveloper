@@ -23,6 +23,9 @@ Technologies, Tools and OS:
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="30px" >  <img src="https://static.cdnlogo.com/logos/c/18/css.svg" width="26px" >  <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="31px" >  <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="30px">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/NativeScript_logo.png" width="30px" >  <img src="https://iconape.com/wp-content/files/fu/369254/svg/android-logo-icon-png-svg.png" width="33px">  <img src="https://devnote.tech/wp-content/uploads/2021/10/Angular-logo.png" width="30px" >  <img src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" width="33px" >   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" width="43px">   <img src="https://www.joykal.com/wp-content/uploads/2019/09/codeigniter-icon-512.png" width="30px" >    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px" >   <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" width="39px" > 
 
 <hr />
+<div align="center">
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="300px"  ">
+</div>
 
 <div align="center">
   <h1 >Currently working on: </h1>
@@ -42,7 +45,7 @@ Colaborting with other team members and using Swagger UI for api execution.</p>
 <hr />
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="300px"  ">
+  
   <h1>Experience:</h1>
 </div>
 
