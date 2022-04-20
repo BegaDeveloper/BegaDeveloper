@@ -33,6 +33,11 @@ Technologies, Tools and OS:
 Complex functionality and pixel perfect design.
 It is used for companies to monitor workers time, order materials for work on construction sites. From chat communication to email communication, and sending pdfs, it covers it all.</p>
  </div>
+  <div>
+  <h3>Banking Sistem for Serbia</h3>
+ <p>✅ Creating an application from scratch, using Angular13, for a banking application for Serbia. To which banks from Serbia will connect and work on various invoices and loan transfers, etc.
+Colaborting with other team members and using Swagger UI for api execution.</p>
+ </div>
 
 <hr />
 
