@@ -35,7 +35,7 @@ It is used for companies to monitor workers time, order materials for work on co
  </div>
   <div>
   <h3>Banking Sistem for Serbia</h3>
- <p>✅ Creating an application from scratch, using Angular13, for a banking application for Serbia. To which banks and clients from Serbia will connect and work on various invoices, loan transfers, etc.
+ <p>✅ Creating an application from scratch, using Angular13, for a banking application for Serbia. To which banks and clients from Serbia will connect and work on various requests, invoices, loan transfers, etc.
 Colaborting with other team members and using Swagger UI for api execution.</p>
  </div>
 
