@@ -34,7 +34,7 @@ Complex functionality and pixel perfect design.
 It is used for companies to monitor workers time, order materials for work on construction sites. From chat communication to email communication, and sending pdfs, it covers it all.</p>
  </div>
   <div>
-  <h3>Banking Sistem for Serbia</h3>
+  <h3>UBS Banking Sistem for Serbia</h3>
  <p>✅ Creating an application from scratch, using Angular13, for a banking application for Serbia. To which banks and clients from Serbia will connect and work on various requests, invoices, loan transfers, etc.
 Colaborting with other team members and using Swagger UI for api execution.</p>
  </div>
