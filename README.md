@@ -25,6 +25,18 @@ Technologies, Tools and OS:
 <hr />
 
 <div align="center">
+  <h1 >Currently working on: </h1>
+</div>
+ <div>
+  <h3>WEON Pro Menagment Flow</h3>
+ <p>✅ Working on an application for the Swedish market. The application is high scale, which uses Angular, Php, Codeigniter, Oracle ...
+Complex functionality and pixel perfect design.
+It is used for companies to monitor workers time, order materials for work on construction sites. From chat communication to email communication, and sending pdfs, it covers it all.</p>
+ </div>
+
+<hr />
+
+<div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="300px"  ">
   <h1>Experience:</h1>
 </div>
