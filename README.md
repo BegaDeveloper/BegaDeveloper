@@ -34,7 +34,7 @@ Technologies, Tools and OS:
   <h3>WEON - Pro Menagment Flow</h3>
  <p>✅ Working on an application for the Swedish market. The application is high scale, which uses Angular, Php, Codeigniter, Oracle...
 Complex functionality and pixel perfect design.
-It is used for companies to monitor workers time, order materials for work on construction sites. From chat communication to email communication, and sending pdfs, it covers it all.</p>
+It is used for companies to monitor workers time, send invoices, order materials for work on construction sites, etc. From chat communication, to email communication and sending pdfs, it covers it all.</p>
  </div>
   <div>
   <h3>UBS - Banking System for Serbia</h3>
