@@ -50,29 +50,8 @@ Colaborting with other team members and using Swagger UI for api execution.</p>
 </div>
 
 <div>
-<h3>🟢 Full time 40h/week Software Developer at Habultron (BiH, Tuzla)</h3>
-<p>
-• Working on a complex large scale application for Sweden client <br>
-• Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
-• Backend work and API development with PHP and Codeigniter<br>
-• Pixel perfect design implementation from XD files.<br>
-• Team collaboration<br>
-• Produce clean, efficient code based on specifications<br>
-• Troubleshoot, debug and upgrade existing software<br>
-• Recommend and execute improvements
-</p>
-</div>
+<h3>🟢 Software Engineer at Enetel solutions (Serbia, Belgrade)</h3>
 
-<div>
-<h3>🟢 Part time 20h/week Angular Developer at Enetel solutions (Serbia, Belgrade)</h3>
-<p>
-• Building Banking sistem app for banks<br>
-• Angular 13 app from scratch. <br>
-• Work with other team members.<br>
-• Design and implement visually aesthetic user interfaces.<br>
-• Ensure front end code is able to query APIs.<br>
-• Identify issues with front end code and rectify them to remove bugs.<br>
-</p>
 </div>
 
 <div>
@@ -87,6 +66,33 @@ Colaborting with other team members and using Swagger UI for api execution.</p>
 • Write functional requirement documents and guides
 </p>
 </div>
+<div>
+<h3>⚫ Full time 40h/week Software Developer at Habultron (BiH, Tuzla)</h3>
+<p>
+• Working on a complex large scale application for Sweden client <br>
+• Implementing design and functionality using Angular, Oracle, Codeigniter (php)<br>
+• Backend work and API development with PHP and Codeigniter<br>
+• Pixel perfect design implementation from XD files.<br>
+• Team collaboration<br>
+• Produce clean, efficient code based on specifications<br>
+• Troubleshoot, debug and upgrade existing software<br>
+• Recommend and execute improvements
+</p>
+</div>
+
+<div>
+<h3>⚫ Part time 20h/week Angular Developer at Enetel solutions (Serbia, Belgrade)</h3>
+<p>
+• Building Banking sistem app for banks<br>
+• Angular 13 app from scratch. <br>
+• Work with other team members.<br>
+• Design and implement visually aesthetic user interfaces.<br>
+• Ensure front end code is able to query APIs.<br>
+• Identify issues with front end code and rectify them to remove bugs.<br>
+</p>
+</div>
+
+
 
 <div>
 <h3>⚫ Part time Angular Developer at LTG (Canada, Toronto)</h3>
