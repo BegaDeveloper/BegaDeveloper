@@ -50,8 +50,12 @@ Colaborting with other team members and using Swagger UI for api execution.</p>
 </div>
 
 <div>
-<h3>🟢 Software Engineer at Enetel solutions (Serbia, Belgrade)</h3>
-
+<h3>🟢 Full Time Software Engineer at Enetel solutions (Serbia, Belgrade)</h3>
+• Angular <br>
+• Work with other team members.<br>
+• Implement visually aesthetic UI.<br>
+• Ensure front end code is able to query APIs.<br>
+• Debug<br>
 </div>
 
 <div>
