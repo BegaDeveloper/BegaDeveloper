@@ -28,11 +28,17 @@ Technologies, Tools and OS:
 </div>
 
 <div align="center">
-  <h1 >Currently working on: </h1>
+  <h1>Proud projects: </h1>
 </div>
+                   <div>
+  <h3>Avis - Railroad software</h3>
+ <p>✅ Working on an application for Serbian railroads. The application is high scale, which uses Angular13+, Java, Oracle...
+Solid principles are used thru the application. Reusable components and clean code.
+It is used for worker to monitor railroad tables, stations, routes and so on.</p>
+ </div>
  <div>
   <h3>WEON - Pro Menagment Flow</h3>
- <p>✅ Working on an application for the Swedish market. The application is high scale, which uses Angular, Php, Codeigniter, Oracle...
+ <p>✅ Worked on an application for the Swedish market. The application is high scale, which uses Angular, Php, Codeigniter, Oracle...
 Complex functionality and pixel perfect design.
 It is used for companies to monitor workers time, send invoices, order materials for work on construction sites, etc. From chat communication, to email communication and sending pdfs, it covers it all.</p>
  </div>
