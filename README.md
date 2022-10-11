@@ -31,7 +31,7 @@ Technologies, Tools and OS:
   <h1>Proud projects: </h1>
 </div>
                    <div>
-  <h3>Avis - Railroad software</h3>
+  <h3>AVIS - Railroad software</h3>
  <p>✅ Working on an application for Serbian railroads. The application is high scale, which uses Angular13+, Java, Oracle...
 Solid principles are used thru the application. Reusable components and clean code.
 It is used for worker to monitor railroad tables, stations, routes and so on.</p>
