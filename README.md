@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ismar
- <img src="[https://images.squarespace-cdn.com/content/v1/56b8dfcf62cd94ec072ddb33/1547134322115-TKQN4NJZILFDO4QZPK1D/Mean+Stack.png](https://www.wildnettechnologies.com/wp-content/uploads/2018/04/mean-stack-2.png)" width="200px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px">  <br>
+ <img src="https://www.wildnettechnologies.com/wp-content/uploads/2018/04/mean-stack-2.png" width="200px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px">  <br>
 Angular developer with lots of ambition and hustle. Based in Bosnia and Hercegovina - Zivinice. 
 Very responsible, communicative and ready for teamwork. I do well in working under pressure. 
 I have read a lot of books related to programming that have helped me and facilitated my learning and work.  
