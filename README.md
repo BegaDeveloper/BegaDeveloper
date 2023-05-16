@@ -27,7 +27,7 @@ Technologies, Tools and OS:
 </div>
 
 <div align="center">
-  <h1>Proud projects: </h1>
+  <h1>Some of my proud projects: </h1>
 </div>
                    <div>
   <h3>AVIS - Railroad software</h3>
