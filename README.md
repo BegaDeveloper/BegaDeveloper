@@ -40,7 +40,7 @@ Worried about your site's speed affecting your rankings? PandaPeak has you cover
 
 From checking for broken links to conducting a thorough SEO audit that covers everything from meta titles to mobile responsiveness, PandaPeak ensures every aspect of your site is optimized for the search engines.
 
-To explore the full range of features and see how PandaPeak can elevate your SEO strategy, check it out here.</p>
+To explore the full range of features and see how PandaPeak can elevate your SEO strategy, check it out <a href="https://www.linkedin.com/feed/update/urn:li:activity:7099488385441894400">here</a>.</p>
  </div>
 
 <hr />
