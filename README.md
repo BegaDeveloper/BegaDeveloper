@@ -27,24 +27,20 @@ Technologies, Tools and OS:
 </div>
 
 <div align="center">
-  <h1>Some of my proud projects: </h1>
+  <h1>Owner of PandaPeak: Your Comprehensive SEO Solution: </h1>
 </div>
-                   <div>
-  <h3>AVIS - Railroad software</h3>
- <p>✅ Working on an application for Serbian railroads. The application is high scale, which uses Angular13+, Java, Oracle...
-Solid principles are used thru the application. Reusable components and clean code.
-It is used for worker to monitor railroad tables, stations, routes and so on.</p>
- </div>
- <div>
-  <h3>WEON - Pro Menagment Flow</h3>
- <p>✅ Worked on an application for the Swedish market. The application is high scale, which uses Angular, Php, Codeigniter, Oracle...
-Complex functionality and pixel perfect design.
-It is used for companies to monitor workers time, send invoices, order materials for work on construction sites, etc. From chat communication, to email communication and sending pdfs, it covers it all.</p>
- </div>
+             
   <div>
-  <h3>UBS - Banking System for Serbia</h3>
- <p>✅ Working on a Serbian Banking application from scratch, using Angular 13. To which banks and clients from Serbia will connect and work on various requests, invoices, loan transfers, etc.
-Colaborting with other team members and using Swagger UI for api execution.</p>
+  
+ <p>I'm thrilled to present PandaPeak, a robust SEO tool I've built from the ground up using Angular, Firebase, NodeJS, and Express. This tool isn't your run-of-the-mill SEO utility; it's a game-changer in the digital marketing landscape, designed to be your one-stop solution for all things SEO.
+
+Imagine leveraging AI to automatically generate eye-catching images and high-quality text, giving your content the edge it needs to stand out. PandaPeak not only makes this possible but takes it a step further by offering keen insights into keyword optimization. You'll not only get to know which keywords resonate with your audience but also understand how your competitors are using theirs.
+
+Worried about your site's speed affecting your rankings? PandaPeak has you covered with real-time performance insights and tailored recommendations. The tool also goes the extra mile by including a bonus Chrome extension, allowing you to have SEO insights at your fingertips without compromising on data privacy.
+
+From checking for broken links to conducting a thorough SEO audit that covers everything from meta titles to mobile responsiveness, PandaPeak ensures every aspect of your site is optimized for the search engines.
+
+To explore the full range of features and see how PandaPeak can elevate your SEO strategy, check it out here.</p>
  </div>
 
 <hr />
