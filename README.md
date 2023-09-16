@@ -10,7 +10,6 @@ So, whether you're looking for a skilled developer or just want to talk tech, fe
 - 💬 Ask me about anyting.
 - 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: https://www.linkedin.com/in/ismar-begic-bega/
 - ⚡ Fun fact: Im a gym rat and tech nerd.
-- :computer: Check out my portfolio website: https://sweet-crisp-31644a.netlify.app/
 - :handshake: Available for freelance and part-time work over UpWork (Development, Design, Administration, Research, Data Entry... ).
 
 <hr />
