@@ -27,7 +27,7 @@ Technologies, Tools and OS:
 </div>
 
 <div align="center">
-  <h1>Owner of PandaPeak: Your Comprehensive SEO Solution: </h1>
+  <h1>Owner of PandaPeak: Your Comprehensive SEO Solution </h1>
 </div>
              
   <div>
