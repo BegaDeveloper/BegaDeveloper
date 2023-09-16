@@ -32,7 +32,7 @@ Technologies, Tools and OS:
              
   <div>
   
- <p>I'm thrilled to present PandaPeak, a robust SEO tool I've built from the ground up using Angular, Firebase, NodeJS, and Express. This tool isn't your run-of-the-mill SEO utility; it's a game-changer in the digital marketing landscape, designed to be your one-stop solution for all things SEO.
+ <p>PandaPeak, a robust SEO tool I've built from the ground up using Angular, Firebase, NodeJS, and Express. This tool isn't your run-of-the-mill SEO utility; it's a game-changer in the digital marketing landscape, designed to be your one-stop solution for all things SEO.
 
 Imagine leveraging AI to automatically generate eye-catching images and high-quality text, giving your content the edge it needs to stand out. PandaPeak not only makes this possible but takes it a step further by offering keen insights into keyword optimization. You'll not only get to know which keywords resonate with your audience but also understand how your competitors are using theirs.
 
