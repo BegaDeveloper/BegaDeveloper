@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ismar
- <img src="https://www.wildnettechnologies.com/wp-content/uploads/2018/04/mean-stack-2.png" width="200px"> <img src="https://miro.medium.com/max/1200/1*S4-vl5IMSrej6-0r50HD4w.png" width="190px">  <br>
+<br>
 Hey there! 👋 I'm your go-to MEAN Stack Developer, dabbling in everything from Angular to Node.js, Express, and NestJs. Got a database? I've got you covered with PostgreSQL, mySQL and MongoDB. And yes, I love reactive programming—RxJS is my jam!
 
 Based in the beautiful town of Zivinice in Bosnia and Herzegovina, I'm all about teamwork, clear communication, and getting things done. But I'm not just a code junkie—I'm also super approachable and always up for a friendly chat, whether it's about the latest tech trends or just catching up.
