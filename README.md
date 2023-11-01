@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ismar
 <br>
-Hey there! 👋 I'm your go-to MEAN Stack Developer, dabbling in everything from Angular to Node.js, Express, and NestJs. Got a database? I've got you covered with PostgreSQL, mySQL and MongoDB. And yes, I love reactive programming—RxJS is my jam!
+I'm your go-to Full Stack Developer, dabbling in everything from Angular & ASP.NET Core to ExpressJs and NestJs. Got a database? I've got you covered with PostgreSQL, mySQL, MS SQL server and MongoDB. And yes, I love reactive programming—RxJS is my jam!
 
 Based in the beautiful town of Zivinice in Bosnia and Herzegovina, I'm all about teamwork, clear communication, and getting things done. But I'm not just a code junkie—I'm also super approachable and always up for a friendly chat, whether it's about the latest tech trends or just catching up.
 
