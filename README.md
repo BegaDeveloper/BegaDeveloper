@@ -27,20 +27,20 @@ Technologies, Tools and OS:
 </div>
 
 <div align="center">
-  <h1>Owner of PandaPeak: Your Comprehensive SEO Solution </h1>
+  <h1>Owner of Aploco: Your Comprehensive AI SEO Solution </h1>
 </div>
              
   <div>
   
- <p>PandaPeak, a robust SEO tool I've built from the ground up using Angular, Firebase, NodeJS, and Express. This tool isn't your run-of-the-mill SEO utility; it's a game-changer in the digital marketing landscape, designed to be your one-stop solution for all things SEO.
+ <p>Aploco, a robust SEO tool I've built from the ground up using Angular, Firebase, NodeJS, and Express. This tool isn't your run-of-the-mill SEO utility; it's a game-changer in the digital marketing landscape, designed to be your one-stop solution for all things SEO.
 
-Imagine leveraging AI to automatically generate eye-catching images and high-quality text, giving your content the edge it needs to stand out. PandaPeak not only makes this possible but takes it a step further by offering keen insights into keyword optimization. You'll not only get to know which keywords resonate with your audience but also understand how your competitors are using theirs.
+Imagine leveraging AI to automatically generate eye-catching images and high-quality text, giving your content the edge it needs to stand out. Aploco not only makes this possible but takes it a step further by offering keen insights into keyword optimization. You'll not only get to know which keywords resonate with your audience but also understand how your competitors are using theirs.
 
-Worried about your site's speed affecting your rankings? PandaPeak has you covered with real-time performance insights and tailored recommendations. The tool also goes the extra mile by including a bonus Chrome extension, allowing you to have SEO insights at your fingertips without compromising on data privacy.
+Worried about your site's speed affecting your rankings? Aploco has you covered with real-time performance insights and tailored recommendations. The tool also goes the extra mile by including a bonus Chrome extension, allowing you to have SEO insights at your fingertips without compromising on data privacy.
 
-From checking for broken links to conducting a thorough SEO audit that covers everything from meta titles to mobile responsiveness, PandaPeak ensures every aspect of your site is optimized for the search engines.
+From checking for broken links to conducting a thorough SEO audit that covers everything from meta titles to mobile responsiveness, Aploco ensures every aspect of your site is optimized for the search engines.
 
-To explore the full range of features and see how PandaPeak can elevate your SEO strategy, check it out <a href="https://www.linkedin.com/feed/update/urn:li:activity:7099488385441894400">here</a>.</p>
+To explore the full range of features and see how Aploco can elevate your SEO strategy, check it out <a href="https://www.linkedin.com/feed/update/urn:li:activity:7099488385441894400">here</a>.</p>
  </div>
 
 <hr />
