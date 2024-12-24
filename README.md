@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ismar
 <br>
-I'm your go-to Full Stack Developer, dabbling in everything from Angular & ASP.NET Core to ExpressJs and NestJs. Got a database? I've got you covered with PostgreSQL, mySQL, MS SQL server and MongoDB. And yes, I love reactive programming—RxJS is my jam!
+I'm your go to Full Stack Developer, dabbling in everything from Angular to ExpressJs and NestJs. Got a database? I've got you covered with PostgreSQL, mySQL, MS SQL server and MongoDB. And yes, I love reactive programming—RxJS expert!
 
 Based in the beautiful town of Zivinice in Bosnia and Herzegovina, I'm all about teamwork, clear communication, and getting things done. But I'm not just a code junkie—I'm also super approachable and always up for a friendly chat, whether it's about the latest tech trends or just catching up.
 
@@ -9,7 +9,7 @@ So, whether you're looking for a skilled developer or just want to talk tech, fe
 - 👯 I’m looking to collaborate on UpWork so I can boost my experience and skill's.
 - 💬 Ask me about anyting.
 - 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: https://www.linkedin.com/in/ismar-begic-bega/
-- ⚡ Fun fact: Im a gym rat and tech nerd.
+- ⚡ Fun fact: Im a gym rat and tech geek.
 - :handshake: Available for freelance and part-time work over UpWork.
 
 <hr />
