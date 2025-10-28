@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular**, **.NET (C# / ASP.NET Core)**, and **Node.js (Express / NestJS)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
+I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular** and **.NET (C# / ASP.NET Core)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
 
 I specialize in designing **clean, modular architectures** that follow **SOLID principles**, **design patterns**, and **reactive programming (RxJS)** — delivering code that’s not only powerful, but **maintainable and future-proof**.
 
@@ -20,7 +20,7 @@ I specialize in designing **clean, modular architectures** that follow **SOLID p
 ### 🧠 What I Bring to the Table
 
 - 🏗 **Architectural Thinking:** I design scalable, modular frontends & APIs that are clean and enterprise-ready.  
-- ⚙️ **Full Stack Mastery:** Angular, RxJS, NgRx, ASP.NET Core, NestJS, Node, Express, Firebase, GCP.  
+- ⚙️ **Full Stack Mastery:** Angular, RxJS, NgRx, ASP.NET Core, Firebase, GCP.  
 - 🧩 **Design Patterns & SOLID:** I believe in clarity, reusability, and structure over chaos.  
 - 🌍 **Cross-Domain Experience:** Delivered production apps in AI, Blockchain, Healthcare, Fintech, ESG, and Sustainability sectors.  
 - 🧠 **Problem Solver:** I love optimizing code, simplifying complexity, and bringing systems to life that scale beautifully.  
