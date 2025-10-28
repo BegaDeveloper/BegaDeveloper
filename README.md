@@ -73,14 +73,14 @@ Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbuc
 ---
 
 ## What clients had to say
-<img width="764" height="159" alt="r8" style="border-radius: 10;" src="https://github.com/user-attachments/assets/d8e5a0e3-4408-48f0-b0a9-ea8fc08a335c" />
-<img width="811" height="139" alt="r7" src="https://github.com/user-attachments/assets/187cc4a9-9a27-4c08-8f1e-e7ab69fc3040" />
-<img width="618" height="137" alt="r6" src="https://github.com/user-attachments/assets/0fef2108-1c9f-4264-96ff-7b6d7a393f4b" />
-<img width="493" height="136" alt="r5" src="https://github.com/user-attachments/assets/4cac2b97-0143-42c5-beaa-eecd239bd77b" />
-<img width="721" height="133" alt="r4" src="https://github.com/user-attachments/assets/6b869e0d-e95f-41b4-8704-45760b7ea6fe" />
-<img width="813" height="208" alt="r3" src="https://github.com/user-attachments/assets/c73cc161-e794-4f6d-aef2-5d9c6283300a" />
-<img width="499" height="137" alt="r2" src="https://github.com/user-attachments/assets/6212c5c1-6abe-4cb9-adb4-76e48852e978" />
-<img width="575" height="133" alt="r1" src="https://github.com/user-attachments/assets/756e7055-8f01-4d76-9946-1cd4376a8182" />
+<img width="764" height="159" alt="r8" src="https://github.com/user-attachments/assets/d8e5a0e3-4408-48f0-b0a9-ea8fc08a335c" />
+<img width="764" height="159" alt="r7" src="https://github.com/user-attachments/assets/187cc4a9-9a27-4c08-8f1e-e7ab69fc3040" />
+<img width="764" height="159" alt="r6" src="https://github.com/user-attachments/assets/0fef2108-1c9f-4264-96ff-7b6d7a393f4b" />
+<img width="764" height="159" alt="r5" src="https://github.com/user-attachments/assets/4cac2b97-0143-42c5-beaa-eecd239bd77b" />
+<img width="764" height="159" alt="r4" src="https://github.com/user-attachments/assets/6b869e0d-e95f-41b4-8704-45760b7ea6fe" />
+<img width="764" height="159" alt="r3" src="https://github.com/user-attachments/assets/c73cc161-e794-4f6d-aef2-5d9c6283300a" />
+<img width="764" height="159" alt="r2" src="https://github.com/user-attachments/assets/6212c5c1-6abe-4cb9-adb4-76e48852e978" />
+<img width="764" height="159" alt="r1" src="https://github.com/user-attachments/assets/756e7055-8f01-4d76-9946-1cd4376a8182" />
 
 
 ---
