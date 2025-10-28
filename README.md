@@ -8,7 +8,9 @@
 ### 🚀 About Me
 
 I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular** and **.NET (C# / ASP.NET Core)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
+
 As a **Top Rated Plus Freelancer on Upwork (Top 3% globally)** with **5⭐ reviews across all contracts**, I pride myself on delivering software that’s not only technically excellent but also drives real business value.  
+
 I specialize in designing **clean, modular architectures** that follow **SOLID principles**, **design patterns**, and **reactive programming (RxJS)** — delivering code that’s not only powerful, but **maintainable and future-proof**.
 
 > **Note:** 🚫 *My repositories aren’t public — all production code is under company GitHub accounts and strict NDAs.*  
