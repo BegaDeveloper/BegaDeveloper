@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">👋 Hi, I'm Ismar Begić</h1>
 
 <h3 align="center">Full-Stack Software Architect | Angular & .NET Expert | AI, Fintech & ESG Systems</h3>
@@ -112,7 +111,3 @@ I specialize in designing **clean, modular architectures** that follow **SOLID p
   <strong>“Clean code isn’t written—it’s designed.”</strong>
 </div>
 
----
-```
-on** of this — one that’s **shorter and more visually compact** (for GitHub’s mobile view / minimalists)?
-That way you could choose between a **“detailed professional version”** and a **“clean portfolio summary version.”**
