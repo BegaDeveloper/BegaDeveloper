@@ -11,7 +11,7 @@ I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angu
 
 I specialize in designing **clean, modular architectures** that follow **SOLID principles**, **design patterns**, and **reactive programming (RxJS)** — delivering code that’s not only powerful, but **maintainable and future-proof**.
 
-> ⚡ **Note:** 🚫 *My repositories aren’t public — all production code is under company GitHub accounts and strict NDAs.*  
+> **Note:** 🚫 *My repositories aren’t public — all production code is under company GitHub accounts and strict NDAs.*  
 > 💼 *Every line of code I write is for production apps that make money — not for display!* ⚡   
 > 📘 However, I’ve prepared detailed .md repositories that explain the architecture, technologies, and business logic behind my major apps.
 
