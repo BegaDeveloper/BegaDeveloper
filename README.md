@@ -1,49 +1,118 @@
-### Hi there 👋 I'm Ismar
-<br>
-I'm your go to Full Stack Developer, dabbling in everything from Angular to ExpressJs and NestJs. Got a database? I've got you covered with PostgreSQL, mySQL, MS SQL server and MongoDB. And yes, I love reactive programming—RxJS expert!
 
-Based in the beautiful town of Zivinice in Bosnia and Herzegovina, I'm all about teamwork, clear communication, and getting things done. But I'm not just a code junkie—I'm also super approachable and always up for a friendly chat, whether it's about the latest tech trends or just catching up.
+```markdown
+<h1 align="center">👋 Hi, I'm Ismar Begić</h1>
 
-So, whether you're looking for a skilled developer or just want to talk tech, feel free to hit me up. Let's build something awesome together! 😄
+<h3 align="center">Full-Stack Software Architect | Angular & .NET Expert | AI, Fintech & ESG Systems</h3>
 
-- 👯 I’m looking to collaborate on UpWork so I can boost my experience and skill's.
-- 💬 Ask me about anyting.
-- 📫 How to reach me: ismarbegicit@gmail.com or LinkedIn: https://www.linkedin.com/in/ismar-begic-bega/
-- ⚡ Fun fact: Im a gym rat and tech geek.
-- :handshake: Available for freelance and part-time work over UpWork.
+---
 
-<hr />
+### 🚀 About Me
 
-Technologies, Tools and OS:
+I'm a **Full Stack Developer & Software Architect** with deep expertise in **Angular**, **.NET (C# / ASP.NET Core)**, and **Node.js (Express / NestJS)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="30px"> <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png](https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png)](https://logos-world.net/wp-content/uploads/2020/04/Apple-Logo.png)" width="35px"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="30px" >     
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" margin="10px" width="30px" > 
-<img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" width="34px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="34px">   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="32px" >   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="30px" >  <img src="https://valiantys.com/app/uploads/2020/08/bitbucket.png" width="30px" >   <img src="https://coryrylan.com/assets/images/posts/types/firebase.svg" width="28px">   <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="30px" >  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="42px">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="50px">   <br>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="30px" >  <img src="https://static.cdnlogo.com/logos/c/18/css.svg" width="26px" >  <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="30px">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="30px" >  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/NativeScript_logo.png" width="30px" >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" width="35px" >  <img src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" width="33px" >   <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" width="40px">   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="30px" >    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px" >   <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" width="39px" >  <img src="https://img.icons8.com/color/480/mongodb.png" width="39px" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="33px">
+I specialize in designing **clean, modular architectures** that follow **SOLID principles**, **design patterns**, and **reactive programming (RxJS)** — delivering code that’s not only powerful, but **maintainable and future-proof**.
 
-<hr />
-<div align="center">
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="300px"  ">
-</div>
+> ⚡ **Note:** 🚫 *I don’t have public repositories to show because I work under company GitHub accounts and strict NDAs.*  
+> 💼 *Every line of code I write is for production apps that make money — not for display!* ⚡
 
-<div align="center">
-  <h1>Owner of Aploco: Your Comprehensive AI SEO Solution </h1>
-</div>
-             
-  <div>
+---
+
+### 🧠 What I Bring to the Table
+
+- 🏗 **Architectural Thinking:** I design scalable, modular frontends & APIs that are clean and enterprise-ready.  
+- ⚙️ **Full Stack Mastery:** Angular, RxJS, NgRx, ASP.NET Core, NestJS, Node, Express, Firebase, GCP.  
+- 🧩 **Design Patterns & SOLID:** I believe in clarity, reusability, and structure over chaos.  
+- 🌍 **Cross-Domain Experience:** Delivered production apps in AI, Blockchain, Healthcare, Fintech, ESG, and Sustainability sectors.  
+- 🧠 **Problem Solver:** I love optimizing code, simplifying complexity, and bringing systems to life that scale beautifully.  
+- 💬 **Strong Communicator:** Team lead, mentor, and collaborator — ensuring clarity, efficiency, and momentum in teams.
+
+---
+
+### 💼 Technologies & Tools I Work With
+
+<p align="center">
   
- <p>Aploco, a robust SEO tool I've built from the ground up using Angular, Firebase, NodeJS, and Express. This tool isn't your run-of-the-mill SEO utility; it's a game-changer in the digital marketing landscape, designed to be your one-stop solution for all things SEO.
+  <!-- Core Languages -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40px" />
+  <img src="https://nodejs.org/static/images/logo.svg" width="40px" />
 
-Imagine leveraging AI to automatically generate eye-catching images and high-quality text, giving your content the edge it needs to stand out. Aploco not only makes this possible but takes it a step further by offering keen insights into keyword optimization. You'll not only get to know which keywords resonate with your audience but also understand how your competitors are using theirs.
+  <!-- Frontend -->
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45px" />
+  <img src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" width="35px" />
+  <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" width="40px" />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40px" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="40px" />
 
-Worried about your site's speed affecting your rankings? Aploco has you covered with real-time performance insights and tailored recommendations. The tool also goes the extra mile by including a bonus Chrome extension, allowing you to have SEO insights at your fingertips without compromising on data privacy.
+  <!-- Backend & APIs -->
+  <img src="https://nestjs.com/img/logo-small.svg" width="35px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="75px" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="40px" />
 
-From checking for broken links to conducting a thorough SEO audit that covers everything from meta titles to mobile responsiveness, Aploco ensures every aspect of your site is optimized for the search engines.
+  <!-- Databases -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40px" />
+  <img src="https://img.icons8.com/color/480/mongodb.png" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50px" />
 
-To explore the full range of features and see how Aploco can elevate your SEO strategy, check it out <a href="https://www.linkedin.com/feed/update/urn:li:activity:7099488385441894400">here</a>.</p>
- </div>
+  <!-- Cloud & DevOps -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Amazon_Web_Services_Logo.svg" width="50px" />
+  <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="50px" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50px" />
 
-<hr />
+  <!-- Tools -->
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40px" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Jira_logo.svg" width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35px" />
+  <img src="https://seeklogo.com/images/A/adobe-photoshop-2020-logo-37B02055A4-seeklogo.com.png" width="40px" />
+  
+</p>
 
+---
 
+### 🧩 Areas I’ve Worked In
 
+🌐 **Web Applications**  
+🏦 **Fintech & Banking Systems**  
+🧬 **Healthcare & Pathology Platforms**  
+🤖 **AI / Machine Learning Tools**  
+💚 **ESG / Sustainability Software**  
+🔗 **Blockchain Integrations**  
+📊 **Business Intelligence & Data Visualization**
+
+---
+
+### 🏗 Architectural & Development Principles
+
+- **Clean Architecture** and **modular design systems**.  
+- **SOLID principles** and **object-oriented best practices**.  
+- **State management** with NgRx / Signals for predictable behavior.  
+- **Reactive programming (RxJS)** for efficiency and reactivity.  
+- **Performance optimization** (lazy loading, memoization, OnPush, and caching).  
+- **Scalable REST / GraphQL API design** with clean DTO and domain layers.  
+
+---
+
+### 💬 Let’s Connect
+
+💼 **UpWork:** [upwork.com/freelancers/ismarbega](https://www.upwork.com/freelancers/~ismarbega)  
+🔗 **LinkedIn:** [linkedin.com/in/ismar-begic-bega](https://www.linkedin.com/in/ismar-begic-bega/)  
+📧 **Email:** [ismarbegicit@gmail.com](mailto:ismarbegicit@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="320px" alt="Coding gif"/>
+  <br>
+  <strong>“Clean code isn’t written—it’s designed.”</strong>
+</div>
+
+---
+```
+on** of this — one that’s **shorter and more visually compact** (for GitHub’s mobile view / minimalists)?
+That way you could choose between a **“detailed professional version”** and a **“clean portfolio summary version.”**
