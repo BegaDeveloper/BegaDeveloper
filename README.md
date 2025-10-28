@@ -72,7 +72,7 @@ Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbuc
 
 ---
 
-## What clients had to say
+### 💬 Client Testimonials
 <img width="764" height="159" alt="r8" src="https://github.com/user-attachments/assets/d8e5a0e3-4408-48f0-b0a9-ea8fc08a335c" />
 <img width="764" height="159" alt="r7" src="https://github.com/user-attachments/assets/187cc4a9-9a27-4c08-8f1e-e7ab69fc3040" />
 <img width="764" height="159" alt="r6" src="https://github.com/user-attachments/assets/0fef2108-1c9f-4264-96ff-7b6d7a393f4b" />
