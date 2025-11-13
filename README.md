@@ -89,7 +89,7 @@ Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbuc
 
 💼 **UpWork:** [upwork.com/freelancers/ismarbega](https://www.upwork.com/freelancers/~01684cb774e124a36b?viewMode=1)  
 🔗 **LinkedIn:** [linkedin.com/in/ismar-begic-bega](https://www.linkedin.com/in/ismar-begic-bega/)  
-📧 **Email:** [ismarbegicit@gmail.com](mailto:ismarbegicit@gmail.com)
+📧 **Email:** [dev@ismarbegic.com](mailto:dev@ismarbegic.com)
 
 ---
 
