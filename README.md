@@ -68,16 +68,6 @@ I specialize in designing **clean, modular architectures** that follow **SOLID p
 
 ---
 
-### 🧰 Tech Stack
-
-**Frontend:** Angular, RxJS, NgRx, TypeScript, SCSS, Tailwind  
-**Backend:** ASP.NET Core, Web API, Entity Framework, Node.js  
-**Databases:** PostgreSQL, SQL Server, MongoDB, Redis  
-**Cloud & DevOps:** GCP, AWS, Docker, CI/CD, Firebase  
-**Tools:** Git, GitHub, Jira, Figma, Postman
-
----
-
 ### 🧩 Areas I’ve Worked In
 
 🌐 **Web Applications**  
