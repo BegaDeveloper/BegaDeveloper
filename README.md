@@ -65,13 +65,13 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 
 ### 🧩 Areas I’ve Worked In
 
-🌐 **Web Applications**  
-🏦 **Fintech & Banking Systems**  
-🧬 **Healthcare & Pathology Platforms**  
-🤖 **AI / Machine Learning Tools**  
-💚 **ESG / Sustainability Software**  
-🔗 **Blockchain Integrations**  
-📊 **Business Intelligence & Data Visualization**
+- 🌐 **Web Applications**  
+- 🏦 **Fintech & Banking Systems**  
+- 🧬 **Healthcare & Pathology Platforms**  
+- 🤖 **AI / Machine Learning Tools**  
+- 💚 **ESG / Sustainability Software**  
+- 🔗 **Blockchain Integrations**  
+- 📊 **Business Intelligence & Data Visualization**
 
 ---
 
