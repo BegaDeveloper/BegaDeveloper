@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-005FB8?style=flat&logo=windows&logoColor=white)
 
 I build software. I ship it. And I make sure it actually works in production.
 
