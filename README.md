@@ -13,11 +13,14 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=windows&logoColor=white)
 
-I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular** and **.NET (C# / ASP.NET Core)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
+I build software. I ship it. And I make sure it actually works in production.
 
-As a **Top Rated Plus Freelancer on Upwork (Top 3% globally)** with **5⭐ reviews across all contracts**, I pride myself on delivering software that’s not only technically excellent but also drives real business value.  
+From backend logic and APIs to Angular frontends and cloud infrastructure — I handle the full stack.
+Most of my work is in Angular + .NET, building scalable systems for Fintech, Healthcare, AI, ESG, and Blockchain products.
 
-I specialize in designing **clean, modular architectures** that follow **SOLID principles**, **design patterns**, and **reactive programming (RxJS)** — delivering code that’s not only powerful, but **maintainable and future-proof**.
+I’m also a Top Rated Plus freelancer on Upwork (Top 3%), and I focus on writing clean, maintainable code that teams can build on — not just “make it work” solutions.
+
+I enjoy turning complex ideas into clean systems, solving real problems, and building software that’s easy to extend, scale, and maintain.
 
 > **Note:** 🚫 *My repositories aren’t public — all production code is under company GitHub accounts and strict NDAs.*  
 > 💼 *Every line of code I write is for production apps that make money — not for display!* ⚡   
