@@ -82,15 +82,31 @@ Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbuc
 
 ---
 
-### 💬 Client Testimonials
-<img width="764" height="159" alt="r8" src="https://github.com/user-attachments/assets/d8e5a0e3-4408-48f0-b0a9-ea8fc08a335c" />
-<img width="764" height="159" alt="r7" src="https://github.com/user-attachments/assets/187cc4a9-9a27-4c08-8f1e-e7ab69fc3040" />
-<img width="764" height="159" alt="r6" src="https://github.com/user-attachments/assets/0fef2108-1c9f-4264-96ff-7b6d7a393f4b" />
-<img width="764" height="159" alt="r5" src="https://github.com/user-attachments/assets/4cac2b97-0143-42c5-beaa-eecd239bd77b" />
-<img width="764" height="159" alt="r4" src="https://github.com/user-attachments/assets/6b869e0d-e95f-41b4-8704-45760b7ea6fe" />
-<img width="764" height="159" alt="r3" src="https://github.com/user-attachments/assets/c73cc161-e794-4f6d-aef2-5d9c6283300a" />
-<img width="764" height="159" alt="r2" src="https://github.com/user-attachments/assets/6212c5c1-6abe-4cb9-adb4-76e48852e978" />
-<img width="764" height="159" alt="r1" src="https://github.com/user-attachments/assets/756e7055-8f01-4d76-9946-1cd4376a8182" />
+### 🧠 Projects & Work
+
+- 🌱 **GreenScope** — ESG & Scope 3 data collection platform with carbon accounting, compliance, and supplier reporting  
+- 🏗️ **EnvalPRO** — ESG-focused renovation cost & sustainability analysis platform for construction projects  
+- 🧬 **Pathology Management App (UK)** — Enterprise pathology system used in clinics and hospitals across England  
+- 🧰 **Toolhive** — Tool management platform for industrial companies (Sweden)  
+- 🏥 **Wiseclin** — Risk-based quality management system for healthcare organizations
+- ✈️ **Optifly** — Airline optimization platform for fuel, slots, and scheduling
+- 🏦 **United Banks of Serbia** — Banking platform connecting Serbian banks for loan transfers and applications  
+- 🚛 **BalkanFreight** — Logistics platform connecting Balkan trucking companies with EU freight (Web + iOS)  
+- 🤖 **Vela** — AI platform for creating and scheduling WordPress & social media content  
+- 🎥 **Vela-Tube** — Faceless AI video creation & scheduling system  
+- ⚖️ **Legalify** — AI-powered legal assistant for document creation, updates, and compliance  
+- 🔍 **PandaPeak** — AI SEO tool for audits, keyword research, and optimization  
+- 📊 **Ethos (Switzerland)** — AI-powered document and report analysis platform  
+- 🗺️ **GeoGo** — Real estate platform with geo-mapping and property discovery features  
+- 🏗️ **Wemax** — Construction management system for workers, invoices, and material tracking  
+- 🧠 **SEO Ally** — Chrome extension for full on-page SEO audits  
+- 📚 **Prescouter** — AI-powered knowledge and research platform  
+- 🚆 **Avis Railroad** — Enterprise railway management system for Serbian railways  
+- 👥 **Recruitroo** — Intelligent recruitment and immigration management platform  
+- 📈 **MRI Bot** — Crypto intelligence bot for signals, new tokens, and market trends  
+- ⚡ **CAN** — Crypto arbitrage notifier using real-time socket alerts  
+- 🔗 **Blockchainge** — Crypto exchange and blockchain trading platform  
+- 🏗️ **Three** — AI-powered 2D DWG to 3D model converter  
 
 
 ---
