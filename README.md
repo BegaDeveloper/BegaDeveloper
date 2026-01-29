@@ -43,31 +43,34 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 
 ---
 
-### 🧠 Projects & Work
+### Personal Projects I built
 
 - 🌱 **GreenScope** — ESG & Scope 3 data collection platform with carbon accounting, compliance, and supplier reporting  
 - 🏗️ **EnvalPRO** — ESG-focused renovation cost & sustainability analysis platform for construction projects  
+- 🤖 **Vela** — AI platform for creating and scheduling WordPress & social media content  
+- 🎥 **Vela-Tube** — Faceless AI video creation & scheduling system  
+- ⚖️ **Legalify** — AI-powered legal assistant for document creation, updates, and compliance  
+- 🔍 **PandaPeak** — AI SEO tool for audits, keyword research, and optimization
+-  🏗️ **Three** — AI-powered 2D DWG to 3D model converter
+-  📈 **MRI Bot** — Crypto intelligence bot for signals, new tokens, and market trends  
+- ⚡ **CAN** — Crypto arbitrage notifier using real-time socket alerts
+- 🧠 **SEO Ally** — Chrome extension for full on-page SEO audits
+- 🗺️ **GeoGo** — Real estate platform with geo-mapping and property discovery features  
+- 🚛 **BalkanFreight** — Logistics platform connecting Balkan trucking companies with EU freight (Web + iOS)  
+
+### 🧠 Projects I worked on
+
 - 🧬 **Pathology Management App (UK)** — Enterprise pathology system used in clinics and hospitals across England  
 - 🧰 **Toolhive** — Tool management platform for industrial companies (Sweden)  
 - 🏥 **Wiseclin** — Risk-based quality management system for healthcare organizations
 - ✈️ **Optifly** — Airline optimization platform for fuel, slots, and scheduling
 - 🏦 **United Banks of Serbia** — Banking platform connecting Serbian banks for loan transfers and applications  
-- 🚛 **BalkanFreight** — Logistics platform connecting Balkan trucking companies with EU freight (Web + iOS)  
-- 🤖 **Vela** — AI platform for creating and scheduling WordPress & social media content  
-- 🎥 **Vela-Tube** — Faceless AI video creation & scheduling system  
-- ⚖️ **Legalify** — AI-powered legal assistant for document creation, updates, and compliance  
-- 🔍 **PandaPeak** — AI SEO tool for audits, keyword research, and optimization  
-- 📊 **Ethos (Switzerland)** — AI-powered document and report analysis platform  
-- 🗺️ **GeoGo** — Real estate platform with geo-mapping and property discovery features  
+- 📊 **Ethos** — AI-powered document and report analysis platform  
 - 🏗️ **Wemax** — Construction management system for workers, invoices, and material tracking  
-- 🧠 **SEO Ally** — Chrome extension for full on-page SEO audits  
 - 📚 **Prescouter** — AI-powered knowledge and research platform  
 - 🚆 **Avis Railroad** — Enterprise railway management system for Serbian railways  
 - 👥 **Recruitroo** — Intelligent recruitment and immigration management platform  
-- 📈 **MRI Bot** — Crypto intelligence bot for signals, new tokens, and market trends  
-- ⚡ **CAN** — Crypto arbitrage notifier using real-time socket alerts  
 - 🔗 **Blockchainge** — Crypto exchange and blockchain trading platform  
-- 🏗️ **Three** — AI-powered 2D DWG to 3D model converter  
 
 ---
 
