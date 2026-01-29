@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Ismar Begić</h1>
+<h1 align="center">👋 Hi, I'm Ismar</h1>
 
 <h3 align="center">Full-Stack Software Engineer | Angular & .NET Expert</h3>
 
