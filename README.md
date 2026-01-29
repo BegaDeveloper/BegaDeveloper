@@ -13,6 +13,9 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ismar-begic-bega/)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/ismarbegic)
+[![Email](https://img.shields.io/badge/Email-dev%40ismarbegic.com-D14836?style=flat&logo=gmail)](mailto:dev@ismarbegic.com)
 
 I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular** and **.NET (C# / ASP.NET Core)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
 
@@ -88,15 +91,6 @@ Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbuc
 <img width="764" height="159" alt="r3" src="https://github.com/user-attachments/assets/c73cc161-e794-4f6d-aef2-5d9c6283300a" />
 <img width="764" height="159" alt="r2" src="https://github.com/user-attachments/assets/6212c5c1-6abe-4cb9-adb4-76e48852e978" />
 <img width="764" height="159" alt="r1" src="https://github.com/user-attachments/assets/756e7055-8f01-4d76-9946-1cd4376a8182" />
-
-
----
-
-### 💬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ismar-begic-bega/)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/ismarbegic)
-[![Email](https://img.shields.io/badge/Email-dev%40ismarbegic.com-D14836?style=flat&logo=gmail)](mailto:dev@ismarbegic.com)
 
 
 ---
