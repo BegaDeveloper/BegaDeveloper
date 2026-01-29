@@ -5,7 +5,16 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Tech Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular** and **.NET (C# / ASP.NET Core)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
 
