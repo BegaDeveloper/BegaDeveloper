@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Ismar</h1>
 
-<h3 align="center">Full-Stack Software Engineer | Angular & .NET Expert</h3>
+<h3 align="center">Software Engineer | Angular & .NET Expert</h3>
 
 ---
 
