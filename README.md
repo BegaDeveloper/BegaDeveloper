@@ -15,7 +15,7 @@
 
 I build software. I ship it. And I make sure it actually works in production.
 
-From backend logic and APIs to Angular frontends and cloud infrastructure — I handle the full stack.
+From backend logic and APIs to Angular frontends and cloud infrastructure — I handle the full stack.<br>
 Most of my work is in Angular + .NET, building scalable systems for Fintech, Healthcare, AI, ESG, and Blockchain products.
 
 I’m also a Top Rated Plus freelancer on Upwork (Top 3%), and I focus on writing clean, maintainable code that teams can build on — not just “make it work” solutions.
