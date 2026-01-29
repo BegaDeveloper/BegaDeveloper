@@ -32,18 +32,7 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 
 ---
 
-### 🧠 What I Bring to the Table
-
-- 🏗 **Architectural Thinking:** I design scalable, modular frontends & APIs that are clean and enterprise-ready.  
-- ⚙️ **Full Stack Mastery:** Angular, RxJS, NgRx, ASP.NET Core, Firebase, GCP.  
-- 🧩 **Design Patterns & SOLID:** I believe in clarity, reusability, and structure over chaos.  
-- 🌍 **Cross-Domain Experience:** Delivered production apps in AI, Blockchain, Healthcare, Fintech, ESG, and Sustainability sectors.  
-- 🧠 **Problem Solver:** I love optimizing code, simplifying complexity, and bringing systems to life that scale beautifully.  
-- 💬 **Strong Communicator:** Team lead, mentor, and collaborator — ensuring clarity, efficiency, and momentum in teams.
-
----
-
-### Personal Projects I built
+### 💡 Personal Projects I built
 
 - 🌱 **GreenScope** — ESG & Scope 3 data collection platform with carbon accounting, compliance, and supplier reporting  
 - 🏗️ **EnvalPRO** — ESG-focused renovation cost & sustainability analysis platform for construction projects  
@@ -83,6 +72,17 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 💚 **ESG / Sustainability Software**  
 🔗 **Blockchain Integrations**  
 📊 **Business Intelligence & Data Visualization**
+
+---
+
+### 🧠 What I Bring to the Table
+
+- 🏗 **Architectural Thinking:** I design scalable, modular frontends & APIs that are clean and enterprise-ready.  
+- ⚙️ **Full Stack Mastery:** Angular, RxJS, NgRx, ASP.NET Core, Firebase, GCP.  
+- 🧩 **Design Patterns & SOLID:** I believe in clarity, reusability, and structure over chaos.  
+- 🌍 **Cross-Domain Experience:** Delivered production apps in AI, Blockchain, Healthcare, Fintech, ESG, and Sustainability sectors.  
+- 🧠 **Problem Solver:** I love optimizing code, simplifying complexity, and bringing systems to life that scale beautifully.  
+- 💬 **Strong Communicator:** Team lead, mentor, and collaborator — ensuring clarity, efficiency, and momentum in teams.
 
 ---
 
