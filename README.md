@@ -40,48 +40,6 @@ I specialize in designing **clean, modular architectures** that follow **SOLID p
 
 ---
 
-### 💼 Technologies & Tools I Work With
-
-#### 🖥 Frontend
-Angular  |  RxJS  |  NgRx  | Nx Monorepo |  TypeScript  |  JavaScript  |  HTML5  |  SCSS  |  Bootstrap  |  Tailwind  |  PrimeNG  |  Angular Material  |  Fabric.js  |  D3.js  |  Ngx-Charts  
-
-#### ⚙️ Backend / APIs
-ASP.NET Core (C#)  |  Entity Framework Core  |  LINQ  |  Web API  |  REST & GraphQL  |  Socket.io  |  OpenAI API  |  Firebase Functions  
-
-#### 🗄 Databases
-PostgreSQL  |  MySQL  |  MS SQL Server  |  MongoDB  |  Firestore  |  Redis  
-
-#### ☁️ Cloud & DevOps
-Google Cloud (GCP)  |  Firebase  |  AWS  |  Azure  |  Docker  |  CI/CD (GitHub Actions / Bitbucket Pipelines)  |  Nginx  |  Linux  |  Cloud Run  |  App Engine  |  Kubernetes   
-
-#### 🧰 Tools & Design
-Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbucket  |  GitLab  |  Jira  |  Figma  |  Adobe XD  |  Linear  |  Slack  |  Notion  
-
----
-
-### 🧩 Areas I’ve Worked In
-
-🌐 **Web Applications**  
-🏦 **Fintech & Banking Systems**  
-🧬 **Healthcare & Pathology Platforms**  
-🤖 **AI / Machine Learning Tools**  
-💚 **ESG / Sustainability Software**  
-🔗 **Blockchain Integrations**  
-📊 **Business Intelligence & Data Visualization**
-
----
-
-### 🏗 Architectural & Development Principles
-
-- **Clean Architecture** and **modular design systems**.  
-- **SOLID principles** and **object-oriented best practices**.  
-- **State management** with NgRx / Signals for predictable behavior.  
-- **Reactive programming (RxJS)** for efficiency and reactivity.  
-- **Performance optimization** (lazy loading, memoization, OnPush, and caching).  
-- **Scalable REST / GraphQL API design** with clean DTO and domain layers.  
-
----
-
 ### 🧠 Projects & Work
 
 - 🌱 **GreenScope** — ESG & Scope 3 data collection platform with carbon accounting, compliance, and supplier reporting  
@@ -108,6 +66,38 @@ Visual Studio Code  |  JetBrains Rider  |  Postman  |  Git  |  GitHub  |  Bitbuc
 - 🔗 **Blockchainge** — Crypto exchange and blockchain trading platform  
 - 🏗️ **Three** — AI-powered 2D DWG to 3D model converter  
 
+---
+
+### 🧰 Tech Stack
+
+**Frontend:** Angular, RxJS, NgRx, TypeScript, SCSS, Tailwind  
+**Backend:** ASP.NET Core, Web API, Entity Framework, Node.js  
+**Databases:** PostgreSQL, SQL Server, MongoDB, Redis  
+**Cloud & DevOps:** GCP, AWS, Docker, CI/CD, Firebase  
+**Tools:** Git, GitHub, Jira, Figma, Postman
+
+---
+
+### 🧩 Areas I’ve Worked In
+
+🌐 **Web Applications**  
+🏦 **Fintech & Banking Systems**  
+🧬 **Healthcare & Pathology Platforms**  
+🤖 **AI / Machine Learning Tools**  
+💚 **ESG / Sustainability Software**  
+🔗 **Blockchain Integrations**  
+📊 **Business Intelligence & Data Visualization**
+
+---
+
+### 🏗 Architectural & Development Principles
+
+- **Clean Architecture** and **modular design systems**.  
+- **SOLID principles** and **object-oriented best practices**.  
+- **State management** with NgRx / Signals for predictable behavior.  
+- **Reactive programming (RxJS)** for efficiency and reactivity.  
+- **Performance optimization** (lazy loading, memoization, OnPush, and caching).  
+- **Scalable REST / GraphQL API design** with clean DTO and domain layers.  
 
 ---
 
