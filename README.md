@@ -14,7 +14,7 @@
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ismar-begic-bega/)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/ismarbegic)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ismarbegic)
 [![Email](https://img.shields.io/badge/Email-dev%40ismarbegic.com-D14836?style=flat&logo=gmail)](mailto:dev@ismarbegic.com)
 
 I'm a **Full Stack Engineer & Software Architect** with deep expertise in **Angular** and **.NET (C# / ASP.NET Core)** — building **scalable, production-grade systems** for enterprise clients across **Fintech, Healthcare, AI, ESG, and Blockchain** sectors.  
