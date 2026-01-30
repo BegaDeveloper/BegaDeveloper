@@ -86,17 +86,6 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 
 ---
 
-### 🏗 Architectural & Development Principles
-
-- **Clean Architecture** and **modular design systems**.  
-- **SOLID principles** and **object-oriented best practices**.  
-- **State management** with NgRx / Signals for predictable behavior.  
-- **Reactive programming (RxJS)** for efficiency and reactivity.  
-- **Performance optimization** (lazy loading, memoization, OnPush, and caching).  
-- **Scalable REST / GraphQL API design** with clean DTO and domain layers.  
-
----
-
 <div align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165b18d9d064bebd20cd55f15895175b4e5e7f22e&rid=giphy.gif&ct=g" width="320px" alt="Coding gif"/>
   <br>
