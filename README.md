@@ -35,6 +35,8 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 
 ### 💡 Personal Projects I built
 
+- 💻 **talk2sh** — AI terminal assistant for running English prompts as shell commands
+- 🛡️ **smartsh** — Safe shell execution layer for AI agents with compact JSON responses
 - 🌱 **GreenScope** — ESG & Scope 3 data collection platform with carbon accounting, compliance, and supplier reporting  
 - 🏗️ **EnvalPRO** — ESG-focused renovation cost & sustainability analysis platform for construction projects  
 - 🤖 **Vela** — AI platform for creating and scheduling WordPress & social media content  
