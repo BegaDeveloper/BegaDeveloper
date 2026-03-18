@@ -68,7 +68,6 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 
 ### 🧩 Areas I’ve Worked In
 
-- 🌐 **Web Applications**  
 - 🏦 **Fintech & Banking Systems**  
 - 🧬 **Healthcare & Pathology Platforms**  
 - 🤖 **AI / Machine Learning Tools**  
@@ -81,7 +80,7 @@ I enjoy turning complex ideas into clean systems, solving real problems, and bui
 ### 🧠 What I Bring to the Table
 
 - 🏗 **Architectural Thinking:** I design scalable, modular frontends & APIs that are clean and enterprise-ready.  
-- ⚙️ **Full Stack Mastery:** Angular, RxJS, NgRx, ASP.NET Core, Firebase, GCP.  
+- ⚙️ **Full Stack Knowledge:** Angular, RxJS, NgRx, ASP.NET Core, Firebase, GCP.  
 - 🧩 **Design Patterns & SOLID:** I believe in clarity, reusability, and structure over chaos.  
 - 🌍 **Cross-Domain Experience:** Delivered production apps in AI, Blockchain, Healthcare, Fintech, ESG, and Sustainability sectors.  
 - 🧠 **Problem Solver:** I love optimizing code, simplifying complexity, and bringing systems to life that scale beautifully.  
